@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#xstate {
+  height: 100vh;
+  display: flex;
+}
+
+.nonselect {
+  user-select: none !important;
+}
